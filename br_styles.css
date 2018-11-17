@@ -57,13 +57,13 @@ section#main h1 {
   
   /* Rotate styles */
   
-  nav.vertical li {
+  nav.vertical li a {
   
-     -o-transform: rotate(-30deg);
-     -moz-transform: rotate(-30deg);
-     -webkit-transform: rotate(-30deg);
-     -ms-transform: rotate(-30deg);
-     transform: rotate(-30deg);  
+     -o-transform: rotate(-10deg);
+     -moz-transform: rotate(-10deg);
+     -webkit-transform: rotate(-10deg);
+     -ms-transform: rotate(-10deg);
+     transform: rotate(-10deg);  
   }
   /* trasformation to give perspective */
   /* opacity styles */
@@ -74,7 +74,7 @@ section#main h1 {
   
   
   body {
-     height: 660px;
+     height: 750px;
      -moz-box-shadow: rgba(0, 0, 51, 0.6) 20px 0px 10px,
                       rgba(0, 0, 51, 0.6) -20px 0px 10px;
      -webkit-box-shadow: rgba(0, 0, 51, 0.6) 20px 0px 10px,
